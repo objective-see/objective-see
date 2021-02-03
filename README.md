@@ -17,22 +17,13 @@ Our tools, writing, and research are supported by the "Friends of Objective-See"
   <img src="https://objective-see.com/images/friends/jamf.png" height="50px" />
 </a>
 \
-<span style="color:gray">...the standard in apple enterprise management.</span>
+...the standard in apple enterprise management.
 
 \
 <a href="https://1password.com/?utm_medium=parnter&utm_source=Objective-See&utm_campaign=gp&utm_content=sponsorship">
     <img src="https://objective-see.com/images/friends/1Password.png" height="50px" />
 </a>
-\
-<span style="color:gray">...the world’s most-loved password manager.</span>
-
-
-
-
-  
-
-
-
+...the world’s most-loved password manager.
 
 <!-- Icons -->
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
