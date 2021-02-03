@@ -23,6 +23,7 @@ Our tools, writing, and research are supported by the "Friends of Objective-See"
 <a href="https://1password.com/?utm_medium=parnter&utm_source=Objective-See&utm_campaign=gp&utm_content=sponsorship">
     <img src="https://objective-see.com/images/friends/1Password.png" height="50px" />
 </a>
+\
 ...the world’s most-loved password manager.
 
 <!-- Icons -->
