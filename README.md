@@ -13,7 +13,7 @@ Apart from coding, check out our free book(s), "[The Art Of Mac Malware](http://
 Our tools, writing, and research are supported by the "Friends of Objective-See" such as:
 \
 \
-<a href="https://jamf.com">
+<a href="https://www.jamf.com/?utm_source=objective-see&utm_medium=sponsored-link&utm_campaign=next-gen-security&utm_content=2021-02-05_protect">
   <img src="https://objective-see.com/images/friends/jamf.png" height="50px" />
 </a>
 \
