@@ -20,11 +20,32 @@ Our tools, writing, and research are supported by the "Friends of Objective-See"
 ...the standard in apple enterprise management.
 
 \
+<a href="http://mosyle.com/">
+  <img src="https://objective-see.com/images/friends/mosyle.png" height="50px" />
+</a>
+\
+...modern apple mdm & security for enterprise &amp; education.
+
+\
+<a href="http://kandji.io/">
+  <img src="https://objective-see.com/images/friends/kandji.png" height="50px" />
+</a>
+\
+...next-generation apple enterprise management.
+
+\
 <a href="https://1password.com/?utm_medium=parnter&utm_source=Objective-See&utm_campaign=gp&utm_content=sponsorship">
     <img src="https://objective-see.com/images/friends/1Password.png" height="50px" />
 </a>
 \
 ...the world’s most-loved password manager.
+
+\
+<a href="https://macpaw.com/cleanmymac">
+  <img src="https://objective-see.com/images/friends/cleanmymac.png" height="50px" />
+</a>
+\
+...an all-in-one package to awesomize your Mac.
 
 <!-- Icons -->
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
