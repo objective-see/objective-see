@@ -47,6 +47,14 @@ Our tools, writing, and research are supported by the "Friends of Objective-See"
 \
 ...an all-in-one package to awesomize your Mac.
 
+\
+<a href="https://l.kolide.co/31r05qr">
+  <img src="https://objective-see.com/images/friends/kolide.png" height="50px" />
+</a>
+\
+...make device security a part of your culture using Slack.
+ 
+
 <!-- Icons -->
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
