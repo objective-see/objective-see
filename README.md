@@ -12,7 +12,11 @@ Apart from coding, check out our free book(s), "[The Art Of Mac Malware](https:/
 #### 🤗 Our Friends
 Our tools, writing, and research are supported by the "Friends of Objective-See" such as:
 
-![Friends Of Objective-See](https://objective-see.org/images/allFriends.png)
+![](https://github.com/objective-see/Website/blob/main/images/allFriends.png?raw=true)
+
+
+
+
 
 <!-- Icons -->
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
