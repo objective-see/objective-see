@@ -24,6 +24,7 @@ Follow along on X: [@objective_see](https://twitter.com/objective_see)
 ---
 
 ### 🤗 Friends of Objective-See
-Our tools, research, and community efforts are made possible thanks to the generous support of our "Friends of Objective-See":
+Our tools, research, and community efforts are made possible thanks to the generous support of our "**Friends of Objective-See**":
 
-<img width="1301" height="1018" alt="image" src="https://github.com/user-attachments/assets/4cd7146f-d9dd-4629-b4dc-a56c520a1e0f" />
+<img width="1127" height="969" alt="image" src="https://github.com/user-attachments/assets/908ae399-ab0b-4cfa-88c0-440edf6b1e91" />
+
