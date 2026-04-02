@@ -1,29 +1,29 @@
 [![Header](https://github.com/objective-see/objective-see/blob/main/header.png "Header")](https://objective-see.com)
 
+### Aloha! We’re the Objective-See Foundation
 
-### Aloha! We're the Objective-See Foundation! 👋🏼
-At Objective-See our goal is simple: create free open-source security tools for macOS! 
+At Objective-See, our mission is simple: build free, open-source security tools for macOS.
 
-#### 📚 Book & More
-Apart from coding, check out our free book(s), "[The Art Of Mac Malware](https://taomm.org/)" and our [blog](https://objective-see.org/blog.html).
-\
-...you can also find us on [![Twitter][1.1]][1], as [@objective_see](https://twitter.com/objective_see).
+<p>
+  💖 Support our work&nbsp;
+  <a href="https://github.com/sponsors/objective-see">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" align="center" />
+  </a>
+</p>
 
-#### 🤗 Our Friends
-Our tools, writing, and research are supported by the "Friends of Objective-See" such as:
+---
 
-![](https://github.com/objective-see/Website/blob/main/images/allFriends.png?raw=true)
+### 📚 Books & Resources
+Beyond code, we share research and educational content:
 
+- 📝 [Objective-See Blog](https://objective-see.org/blog.html)
+- 📖 *[The Art of Mac Malware](https://taomm.org/)* Book Series
 
+Follow along on X: [@objective_see](https://twitter.com/objective_see)
 
+---
 
+### 🤗 Friends of Objective-See
+Our tools, research, and community efforts are made possible thanks to the generous support of our "Friends of Objective-See":
 
-<!-- Icons -->
-[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/objective_see
-
-
+<img width="1301" height="1018" alt="image" src="https://github.com/user-attachments/assets/4cd7146f-d9dd-4629-b4dc-a56c520a1e0f" />
